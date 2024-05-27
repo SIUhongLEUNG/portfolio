@@ -1,18 +1,18 @@
 {
-  "firstName": "Etienne",
-  "lastName": "Naude",
+  "firstName": "Siu",
+  "lastName": "Leung",
   "heroImage": "thoughtfulImg_qd1fsv.webp",
   "tagLine": "Software and Design",
   "contacts": [
     {
       "type": "Email",
-      "displayText": "eti@naude.dev",
-      "url": "mailto:eti@naude.dev"
+      "displayText": "benleungsiuhong@gmail.com",
+      "url": "benleungsiuhong@gmail.com"
     },
     {
       "type": "LinkedIn",
-      "displayText": "linkedin.com/in/etinaude/",
-      "url": "https://www.linkedin.com/in/etinaude/"
+      "displayText": "linkedin.com/in/siu-leung-384a662a9/",
+      "url": "https://www.linkedin.com/in/siu-leung-384a662a9/"
     },
     {
       "type": "GitHub",
