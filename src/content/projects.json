@@ -1,13 +1,13 @@
 [
   {
-    "title": "Automated Zen Garden",
-    "description": "An coffee table designed to house an automated zen garden. This was done using a RAMPS board to control a core XY CNC mechanism underneath the table, this then moved a magnet on top of the table which moved and carved patterns in some sand.",
+    "title": "Miniature 2 stroke engine",
+    "description": "I am responsible for suggesting the 2-stroke engine design, performing product validatining calculations, generating CAD models, suggesting manufacture method and materials for various components",
     "image_url": "armImg_hpusqb.webp",
     "follow_url": "https://github.com/etinaude/sandtable"
   },
   {
-    "title": "Headstrong Messenger",
-    "description": "I am part of a research team which created an interactive Ionic chatbot app to help struggling teen with depression and anxiety. I am currently heading front end development for this project, using Ionic and Angular.",
+    "title": "Desalination plant design",
+    "description": "I am part of a research team which suggested the finalized design",
     "image_url": "headstrongImg_wv4vdq.webp",
     "follow_url": "https://appadvice.com/app/habits-messenger/1550723158"
   },
